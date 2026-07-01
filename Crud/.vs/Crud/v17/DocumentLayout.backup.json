@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|c:\\users\\user\\onedrive\\documents\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|c:\\users\\user\\onedrive\\documents\\crud\\crud\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|solutionrelative:crud\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|c:\\users\\user\\onedrive\\documents\\crud\\crud\\views\\home\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|solutionrelative:crud\\views\\home\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|c:\\users\\user\\onedrive\\documents\\crud\\crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|solutionrelative:crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|c:\\users\\user\\onedrive\\documents\\crud\\crud\\views\\home\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6226EECA-8017-467A-8480-130EDB0F39E0}|Crud\\Crud.csproj|solutionrelative:crud\\views\\home\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T01:44:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Models\\Student.cs",
+              "RelativeToolTip": "Crud\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T02:43:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Views\\Home\\Show.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Home\\Show.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Views\\Home\\Show.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Home\\Show.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T01:40:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Views\\Home\\Insert.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Home\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Views\\Home\\Insert.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Home\\Insert.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T01:40:12.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T01:39:53.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
