@@ -4,17 +4,33 @@
 @{
 }
 
-<h2>Form Submition</h2>
+<h2 class="mt-5 mb-5">Form Submition</h2>
 
 <form asp-controller="Home" asp-action="SubmitData" method="post">
-    <input placeholder="Enter Your Name" name="userName" />
-    <input placeholder="Enter Your Age" name="userAge" />
-    <input placeholder="Enter Your Email" name="userEmail" />
-    <input type="submit" />
+    <input placeholder="Enter Your Name" name="userName" class="form-control" /><br />
+    <input placeholder="Enter Your Age" name="userAge" class="form-control" /><br />
+    <input placeholder="Enter Your Email" name="userEmail" class="form-control" /><br />
+    <input type="submit" class="btn btn-dark" />
 </form>
 
 <br />
+<h2 class="mt-5 mb-5">Show Data</h2>
 
-@ViewData["userName"] <br />
-@ViewData["userAge"] <br />
-@ViewData["userEmail"] <br />
+@if(ViewData["userName"] != null && ViewData["userAge"] != null && ViewData["userEmail"] != null)
+{
+
+    <div class="alert alert-success">
+        <strong>Success!</strong> Data has been submitted successfully.
+    </div>
+
+    @ViewData["userName"] <br />
+    @ViewData["userAge"] <br />
+    @ViewData["userEmail"] <br />
+
+} else {
+
+    <div class="alert alert-danger">
+        <strong>Warning!</strong> Data has not been submitted yet.
+    </div>
+
+}

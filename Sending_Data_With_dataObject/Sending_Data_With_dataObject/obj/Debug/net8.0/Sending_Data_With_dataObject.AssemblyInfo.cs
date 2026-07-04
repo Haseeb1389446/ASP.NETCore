@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sending_Data_With_dataObject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b4da25b4b8a98f83c4ed72b038a140721b8039")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+238bb806a3b1ef8ec16749632f48284eb97b0e16")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sending_Data_With_dataObject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sending_Data_With_dataObject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
