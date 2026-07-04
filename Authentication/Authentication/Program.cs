@@ -1,7 +1,22 @@
+using Authentication.Models.Data;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var con = builder.Configuration.GetConnectionString("con");
+builder.Services.AddDbContext<ApplicationDbContext>(opt => opt.UseSqlServer(con));
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(opt =>
+{
+    opt.SignIn.RequireConfirmedEmail = true;
+    opt.Password.RequireNonAlphanumeric = false;
+    opt.Password.RequireLowercase = false;
+    opt.Password.RequireUppercase = false;
+});
 
 var app = builder.Build();
 

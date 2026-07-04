@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|f:\\code criteria\\asp .net\\authentication\\authentication\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC166CD6-44A9-404F-B5A9-0908B8996BD2}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,63 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\Register.cshtml",
-              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Home\\Register.cshtml",
-              "RelativeToolTip": "Authentication\\Views\\Home\\Register.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T15:04:34.438Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T02:17:59.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Authentication\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T15:01:59.753Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\Login.cshtml",
-              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Authentication\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowCAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-02T07:11:27.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Authentication\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Authentication\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-01T14:55:12.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Authentication\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Authentication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBcAAAAhAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Authentication\\Authentication\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\Models\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:52:58.335Z"
+              "WhenOpened": "2026-07-03T02:15:28.868Z",
+              "EditorCaption": ""
             }
           ]
         }
