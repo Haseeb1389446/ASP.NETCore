@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudUsingADO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7981f4f8c905717d39d6c663947be47c8be36db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3931e565f745d72e7f5a0cdf45cd822aa960c121")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudUsingADO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudUsingADO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
