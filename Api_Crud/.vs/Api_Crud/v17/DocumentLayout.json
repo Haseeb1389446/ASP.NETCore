@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\",
+  "WorkspaceRootPath": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|e:\\code criteria\\asp .net\\api_crud\\api_crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|e:\\code criteria\\asp .net\\api_crud\\api_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|e:\\code criteria\\asp .net\\api_crud\\api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|e:\\code criteria\\asp .net\\api_crud\\api_crud\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|e:\\code criteria\\asp .net\\api_crud\\api_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,46 +36,48 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Api_Crud\\Controllers\\StudentController.cs",
-              "ToolTip": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Api_Crud\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T06:13:26.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Program.cs",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Program.cs",
               "RelativeDocumentMoniker": "Api_Crud\\Program.cs",
-              "ToolTip": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Program.cs",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Program.cs",
               "RelativeToolTip": "Api_Crud\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T12:03:05.129Z"
+              "WhenOpened": "2025-04-22T12:03:05.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\appsettings.json",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\appsettings.json",
               "RelativeDocumentMoniker": "Api_Crud\\appsettings.json",
-              "ToolTip": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\appsettings.json",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\appsettings.json",
               "RelativeToolTip": "Api_Crud\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T12:00:55.408Z"
+              "WhenOpened": "2025-04-22T12:00:55.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,15 +85,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Student.cs",
+              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Api_Crud\\Models\\Student.cs",
-              "ToolTip": "E:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Student.cs",
+              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Student.cs",
               "RelativeToolTip": "Api_Crud\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:54:39.196Z"
+              "WhenOpened": "2025-04-22T11:54:39.196Z",
+              "EditorCaption": ""
             }
           ]
         }
