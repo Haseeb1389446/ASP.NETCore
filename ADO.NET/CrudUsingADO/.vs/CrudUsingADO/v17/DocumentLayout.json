@@ -26,9 +26,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Student [Data]",
+              "Title": "dbo.Student.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ado/True/SqlTable/dbo.Student.sql",
-              "ToolTip": "dbo.Student [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ado/True/SqlTable/dbo.Student.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-07-07T11:19:01.356Z"
             },
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CrudUsingADO\\Program.cs",
               "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\ADO.NET\\CrudUsingADO\\CrudUsingADO\\Program.cs",
               "RelativeToolTip": "CrudUsingADO\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T07:00:12.531Z",
               "EditorCaption": ""

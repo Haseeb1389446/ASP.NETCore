@@ -13,11 +13,14 @@ public class AdoPractice
             con.Open();
             Console.WriteLine("Connection Successful!");
 
-            using (SqlCommand insertCmd = new SqlCommand("insert into Student values(1, 'John Doe', 20)", con)) {
-                insertCmd.ExecuteNonQuery();
+            // -------- Insert --------
 
+            using (SqlCommand insertCmd = new SqlCommand("insert into Student values(2, 'Walter', 25)", con)) {
+                insertCmd.ExecuteNonQuery();
                 Console.WriteLine("Data Inserted Successfully!");
             }
+
+            // -------- Read --------
 
             using (SqlCommand readCmd = new SqlCommand("select * from Student", con))
             {
@@ -30,18 +33,20 @@ public class AdoPractice
                 }
             }
 
-            using (SqlCommand cmd = new SqlCommand("insert into Student values(1, 'John Doe', 20)", con))
-            {
-                cmd.ExecuteNonQuery();
+            // -------- Update --------
 
-                Console.WriteLine("Data Inserted Successfully!");
+            using (SqlCommand updateCmd = new SqlCommand("update Student set Name = 'Khan' where Id = 1", con))
+            {
+                updateCmd.ExecuteNonQuery();
+                Console.WriteLine("Data Updated Successfully!");
             }
 
-            using (SqlCommand cmd = new SqlCommand("insert into Student values(1, 'John Doe', 20)", con))
-            {
-                cmd.ExecuteNonQuery();
+            // -------- Delete --------
 
-                Console.WriteLine("Data Inserted Successfully!");
+            using (SqlCommand deleteCmd = new SqlCommand("delete from Student where Id = 2", con))
+            {
+                deleteCmd.ExecuteNonQuery();
+                Console.WriteLine("Data Deleted Successfully!");
             }
         }
     }
