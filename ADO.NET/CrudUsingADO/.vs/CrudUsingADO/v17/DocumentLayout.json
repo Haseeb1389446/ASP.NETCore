@@ -3,12 +3,11 @@
   "WorkspaceRootPath": "F:\\CODE CRITERIA\\ASP .NET\\ADO.NET\\CrudUsingADO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A13E616B-AC9B-4B2C-91E4-388EEC28A62D}|CrudUsingADO\\CrudUsingADO.csproj|f:\\code criteria\\asp .net\\ado.net\\crudusingado\\crudusingado\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A13E616B-AC9B-4B2C-91E4-388EEC28A62D}|CrudUsingADO\\CrudUsingADO.csproj|solutionrelative:crudusingado\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A13E616B-AC9B-4B2C-91E4-388EEC28A62D}|CrudUsingADO\\CrudUsingADO.csproj|f:\\code criteria\\asp .net\\ado.net\\crudusingado\\crudusingado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A13E616B-AC9B-4B2C-91E4-388EEC28A62D}|CrudUsingADO\\CrudUsingADO.csproj|solutionrelative:crudusingado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ado/True/SqlTable/dbo.Student.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\ADO.NET\\CrudUsingADO\\CrudUsingADO\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "CrudUsingADO\\Models\\Student.cs",
-              "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\ADO.NET\\CrudUsingADO\\CrudUsingADO\\Models\\Student.cs",
-              "RelativeToolTip": "CrudUsingADO\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T11:06:27.981Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "dbo.Student [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ado/True/SqlTable/dbo.Student.sql",
+              "ToolTip": "dbo.Student [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-07T11:19:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\ADO.NET\\CrudUsingADO\\CrudUsingADO\\Program.cs",
               "RelativeDocumentMoniker": "CrudUsingADO\\Program.cs",
               "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\ADO.NET\\CrudUsingADO\\CrudUsingADO\\Program.cs",
               "RelativeToolTip": "CrudUsingADO\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T07:00:12.531Z",
               "EditorCaption": ""
