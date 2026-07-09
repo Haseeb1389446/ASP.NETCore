@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Crud.csproj": {}
+    "F:\\CODE CRITERIA\\ASP .NET\\Crud\\Crud\\Crud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Crud.csproj": {
+    "F:\\CODE CRITERIA\\ASP .NET\\Crud\\Crud\\Crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Crud.csproj",
+        "projectUniqueName": "F:\\CODE CRITERIA\\ASP .NET\\Crud\\Crud\\Crud.csproj",
         "projectName": "Crud",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\Crud.csproj",
+        "projectPath": "F:\\CODE CRITERIA\\ASP .NET\\Crud\\Crud\\Crud.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Crud\\Crud\\obj\\",
+        "outputPath": "F:\\CODE CRITERIA\\ASP .NET\\Crud\\Crud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

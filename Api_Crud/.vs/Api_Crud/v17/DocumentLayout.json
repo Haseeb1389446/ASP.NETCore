@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|solutionrelative:api_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B31B294F-5B2E-4537-912A-A7310BE83776}|Api_Crud\\Api_Crud.csproj|f:\\code criteria\\asp .net\\api_crud\\api_crud\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +44,14 @@
               "RelativeDocumentMoniker": "Api_Crud\\Controllers\\StudentController.cs",
               "ToolTip": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Api_Crud\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwC8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T06:13:26.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Program.cs",
               "RelativeDocumentMoniker": "Api_Crud\\Program.cs",
@@ -60,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\appsettings.json",
               "RelativeDocumentMoniker": "Api_Crud\\appsettings.json",
@@ -81,11 +85,12 @@
               "RelativeToolTip": "Api_Crud\\Models\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:56:49.8Z"
+              "WhenOpened": "2025-04-22T11:56:49.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\CODE CRITERIA\\ASP .NET\\Api_Crud\\Api_Crud\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Api_Crud\\Models\\Student.cs",

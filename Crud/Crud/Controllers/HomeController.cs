@@ -92,7 +92,8 @@ namespace Crud.Controllers
                 std.Image = existingImage;
             }
 
-            _context.Students.Update(std);
+            //_context.Students.Update(std);
+            _context.Entry(std).State = EntityState.Modified;
             _context.SaveChanges();
             return RedirectToAction("Show");
         }

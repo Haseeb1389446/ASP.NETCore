@@ -64,7 +64,7 @@ namespace dotnet_crud.Controllers
         public IActionResult Delete(int id)
         {
             var user = _Context.users.Find(id);
-            _Context.users.Remove(user);
+            _Context.users.Remove(user!);
             _Context.SaveChanges();
 
             return RedirectToAction("Show");

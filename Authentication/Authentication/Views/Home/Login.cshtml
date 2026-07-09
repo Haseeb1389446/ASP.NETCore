@@ -3,25 +3,26 @@
 *@
 @{
 }
+@model LoginViewModel;
 
 <div class="container">
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-8">
 
-            <form>
+            <form asp-controller="Home" asp-action="Login" method="post">
                 <h1 class="mt-5 mb-5">Login</h1>
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Email address</label>
-                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    <input type="email" asp-for="Email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="exampleInputPassword1">
+                    <input type="password" asp-for="Password" class="form-control" id="exampleInputPassword1">
                 </div>
                 <p>Create an account <a asp-controller="Home" asp-action="Register">Register</a>.</p>
                 <div class="mb-3 form-check">
-                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <input type="checkbox" asp-for="RememberMe" class="form-check-input" id="exampleCheck1">
                     <label class="form-check-label" for="exampleCheck1">Remember me</label>
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>

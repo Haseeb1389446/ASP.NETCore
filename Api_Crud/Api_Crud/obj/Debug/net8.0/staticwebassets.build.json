@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "b1BJQCWiKHyhAsTbo6KEqJ1C/a8KLWjHXNX6yCJANP0=",
-  "Source": "Api_Crud",
-  "BasePath": "_content/Api_Crud",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"ulkhgrQLNDhucXEwP1uV9ZRlFJk9a1CQCt/n8ZfDetI=","Source":"Api_Crud","BasePath":"_content/Api_Crud","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

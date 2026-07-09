@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj": {}
+    "F:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj": {}
   },
   "projects": {
-    "E:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj": {
+    "F:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj",
+        "projectUniqueName": "F:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj",
         "projectName": "dotnet_crud",
-        "projectPath": "E:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj",
-        "packagesPath": "C:\\Users\\haseeb\\.nuget\\packages\\",
-        "outputPath": "E:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\obj\\",
+        "projectPath": "F:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\dotnet_crud.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\CODE CRITERIA\\ASP .NET\\dotnet_crud\\dotnet_crud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\haseeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

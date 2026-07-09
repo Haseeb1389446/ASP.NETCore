@@ -1,6 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\ae2bbed9-e20c-4c67-88f9-b442ab437bf1.png
+wwwroot\images\assets_task_01k01byw09f5hay0tkm55jspct_1752392861_img_0.png
 wwwroot\images\avatar-generations_rpge.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

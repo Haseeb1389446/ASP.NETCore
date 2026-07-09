@@ -12,11 +12,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(opt => opt.UseSqlServer(con)
 
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(opt =>
 {
-    opt.SignIn.RequireConfirmedEmail = true;
+    opt.SignIn.RequireConfirmedEmail = false;
     opt.Password.RequireNonAlphanumeric = false;
     opt.Password.RequireLowercase = false;
     opt.Password.RequireUppercase = false;
-});
+    opt.Password.RequiredLength = 3;
+}).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
 
 var app = builder.Build();
 
